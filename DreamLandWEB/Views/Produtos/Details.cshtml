@@ -1,86 +1,154 @@
 @model DreamLandWEB.Models.Produto
+@using DreamLandWEB.Helpers
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = Model.Nome;
 }
 
-<h1>Details</h1>
-
-<div>
-    <h4>Produto</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nome)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nome)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Descricao)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Descricao)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Categoria)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Categoria)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Preco)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Preco)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Tamanho)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Tamanho)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Condicao)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Condicao)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Estoque)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Estoque)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Disponivel)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Disponivel)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.DataCadastro)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.DataCadastro)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ImagemUrl)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ImagemUrl)
-        </dd>
-    </dl>
-    <form asp-controller="Carrinho" asp-action="Adicionar" method="post" class="mt-3">
-        <input type="hidden" name="produtoId" value="@Model.Id" />
-        <div class="mb-3" style="max-width:150px;">
-            <label class="form-label">Quantidade</label>
-            <input type="number" name="quantidade" value="1" min="1" max="@Model.Estoque" class="form-control" />
+<div class="row g-5">
+    <!-- Coluna da imagem -->
+    <div class="col-md-5">
+        <div class="dl-produto-imagem">
+            @if (!string.IsNullOrEmpty(Model.ImagemUrl))
+            {
+                <img src="@Model.ImagemUrl" alt="@Model.Nome" class="img-fluid rounded-4 shadow-sm" />
+            }
+            else
+            {
+                <div class="dl-sem-imagem d-flex align-items-center justify-content-center rounded-4">
+                    <span class="text-muted">Sem imagem</span>
+                </div>
+            }
         </div>
-        <button type="submit" class="btn btn-outline-primary">Adicionar ao Carrinho</button>
-    </form>
+    </div>
+
+    <!-- Coluna de informações -->
+    <div class="col-md-7">
+        @if (Model.Estoque <= 0)
+        {
+            <span class="badge bg-warning text-dark mb-2">Fora de Estoque</span>
+        }
+        else if (!Model.Disponivel)
+        {
+            <span class="badge bg-warning text-dark mb-2">Pendente de Aprovação</span>
+        }
+
+        <h1 class="dl-titulo mb-1">@Model.Nome</h1>
+
+        <p class="text-muted mb-3">
+            @Model.Categoria.GetDisplayName() &middot; Tamanho @Model.Tamanho
+        </p>
+
+        <div class="d-flex gap-2 mb-3">
+            <span class="badge bg-secondary">@Model.Condicao.GetDisplayName()</span>
+            @if (!string.IsNullOrEmpty(Model.Marca))
+            {
+                <span class="badge dl-badge-marca">@Model.Marca</span>
+            }
+        </div>
+
+        <h2 class="dl-preco mb-4">
+            @(Model.Preco == 0 ? "Gratuito (Doação)" : "R$ " + Model.Preco.ToString("F2"))
+        </h2>
+
+        @if (!string.IsNullOrEmpty(Model.Descricao))
+        {
+            <p class="dl-descricao mb-4">@Model.Descricao</p>
+        }
+
+        <ul class="dl-info-lista mb-4">
+            <li><strong>Estoque disponível:</strong> @Model.Estoque unidade(s)</li>
+            <li><strong>Cadastrado em:</strong> @Model.DataCadastro.ToString("dd/MM/yyyy")</li>
+
+            @if (!string.IsNullOrEmpty(Model.Marca))
+            {
+                <li><strong>Marca:</strong> @Model.Marca</li>
+            }
+            else if (Model.Fornecedor != null)
+            {
+                <li><strong>Doado/vendido por:</strong> @Model.Fornecedor.Nome</li>
+            }
+        </ul>
+
+        @if (Model.Disponivel && Model.Estoque > 0)
+        {
+            <form asp-controller="Carrinho" asp-action="Adicionar" method="post" class="dl-form-carrinho">
+                <input type="hidden" name="produtoId" value="@Model.Id" />
+                <div class="mb-3" style="max-width: 140px;">
+                    <label class="form-label">Quantidade</label>
+                    <input type="number" name="quantidade" value="1" min="1" max="@Model.Estoque" class="form-control" />
+                </div>
+                <button type="submit" class="btn btn-outline-primary btn-lg">Adicionar ao Carrinho</button>
+            </form>
+        }
+        else
+        {
+            <div class="alert dl-alert-indisponivel">
+                Este produto não está disponível no momento.
+            </div>
+        }
+
+        <div class="mt-4">
+            <a asp-controller="Home" asp-action="Index" class="dl-link-voltar">&larr; Voltar aos Produtos</a>
+
+            @if (User.FindFirst("Admin")?.Value == "True")
+            {
+                <span class="mx-2 text-muted">|</span>
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="dl-link-voltar">Editar Produto</a>
+            }
+        </div>
+    </div>
 </div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+
+<style>
+    .dl-produto-imagem img,
+    .dl-sem-imagem {
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+        background: rgba(255, 255, 255, 0.5);
+    }
+
+    .dl-preco {
+        color: var(--dl-rosa-profundo);
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 700;
+    }
+
+    .dl-descricao {
+        color: var(--dl-texto);
+        line-height: 1.6;
+    }
+
+    .dl-badge-marca {
+        background-color: var(--dl-azul-bebe);
+        color: var(--dl-texto);
+    }
+
+    .dl-info-lista {
+        list-style: none;
+        padding: 0;
+        color: var(--dl-texto);
+        opacity: 0.85;
+    }
+
+        .dl-info-lista li {
+            margin-bottom: 0.3rem;
+        }
+
+    .dl-alert-indisponivel {
+        background: rgba(217, 140, 166, 0.15);
+        border: 1px solid var(--dl-rosa-transp);
+        color: var(--dl-rosa-profundo);
+        border-radius: 14px;
+    }
+
+    .dl-link-voltar {
+        font-weight: 600;
+        color: var(--dl-rosa-profundo);
+    }
+
+    .dl-form-carrinho .form-control {
+        border-radius: 12px;
+    }
+</style>

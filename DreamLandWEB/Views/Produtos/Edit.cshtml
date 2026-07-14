@@ -1,4 +1,5 @@
 @model DreamLandWEB.Models.Produto
+@using DreamLandWEB.Enums
 
 @{
     ViewData["Title"] = "Edit";
@@ -23,9 +24,11 @@
                 <input asp-for="Descricao" class="form-control" />
                 <span asp-validation-for="Descricao" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group mb-3">
                 <label asp-for="Categoria" class="control-label"></label>
-                <select asp-for="Categoria" class="form-control"></select>
+                <select asp-for="Categoria" class="form-select" asp-items="Html.GetEnumSelectList<CategoriaProduto>()">
+                    <option value="">Selecione...</option>
+                </select>
                 <span asp-validation-for="Categoria" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -39,11 +42,6 @@
                 <span asp-validation-for="Tamanho" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Condicao" class="control-label"></label>
-                <select asp-for="Condicao" class="form-control"></select>
-                <span asp-validation-for="Condicao" class="text-danger"></span>
-            </div>
-            <div class="form-group">
                 <label asp-for="Estoque" class="control-label"></label>
                 <input asp-for="Estoque" class="form-control" />
                 <span asp-validation-for="Estoque" class="text-danger"></span>
@@ -54,15 +52,12 @@
                 </label>
             </div>
             <div class="form-group">
-                <label asp-for="DataCadastro" class="control-label"></label>
-                <input asp-for="DataCadastro" class="form-control" />
-                <span asp-validation-for="DataCadastro" class="text-danger"></span>
-            </div>
-            <div class="form-group">
                 <label asp-for="ImagemUrl" class="control-label"></label>
                 <input asp-for="ImagemUrl" class="form-control" />
                 <span asp-validation-for="ImagemUrl" class="text-danger"></span>
             </div>
+            <input type="hidden" asp-for="FornecedorId" />
+            <input type="hidden" asp-for="Marca" />
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-outline-primary" />
             </div>

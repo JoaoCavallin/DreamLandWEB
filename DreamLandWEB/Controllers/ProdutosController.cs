@@ -48,17 +48,13 @@ namespace DreamLandWEB.Controllers
         // GET: Produtos/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
             var produto = await _context.Produtos
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (produto == null)
-            {
-                return NotFound();
-            }
+                .Include(p => p.Fornecedor)
+                .FirstOrDefaultAsync(p => p.Id == id);
+
+            if (produto == null) return NotFound();
 
             return View(produto);
         }
@@ -76,7 +72,7 @@ namespace DreamLandWEB.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         [Authorize(Policy = "RequerAdmin")]
-        public async Task<IActionResult> Create([Bind("Id,Nome,Descricao,Categoria,Preco,Tamanho,Estoque,Disponivel,ImagemUrl,FornecedorId")] Produto produto)
+        public async Task<IActionResult> Create([Bind("Id,Nome,Descricao,Categoria,Preco,Tamanho,Estoque,Disponivel,ImagemUrl,FornecedorId, Marca")] Produto produto)
         {
             produto.DataCadastro = DateTime.Now;
             produto.Condicao = CondicaoProduto.Novo;
@@ -113,7 +109,7 @@ namespace DreamLandWEB.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         [Authorize(Policy = "RequerAdmin")]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Descricao,Categoria,Preco,Tamanho,Condicao,Estoque,Disponivel,ImagemUrl")] Produto produto)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Descricao,Categoria,Preco,Tamanho,Condicao,Estoque,Disponivel,ImagemUrl,Marca,FornecedorId")] Produto produto)
         {
             if (id != produto.Id)
             {

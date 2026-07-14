@@ -188,3 +188,92 @@ h1, h2, h3, h4, .dl-titulo {
         box-shadow: none;
         color: var(--dl-rosa-profundo);
     }
+
+/* Espaçamento geral do header */
+.dl-header .navbar-nav .nav-item {
+    margin: 0 0.4rem;
+}
+
+.dl-conta-group {
+    gap: 0.75rem;
+}
+
+    .dl-conta-group .nav-item {
+        margin: 0;
+    }
+
+/* Dropdown Admin */
+.dl-admin-toggle {
+    font-weight: 600;
+    color: var(--dl-rosa-profundo) !important;
+}
+
+.dl-admin-menu {
+    border: none;
+    border-radius: 18px;
+    box-shadow: 0 8px 24px rgba(201, 124, 130, 0.18);
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(6px);
+    min-width: 220px;
+}
+
+    .dl-admin-menu .dropdown-item {
+        border-radius: 12px;
+        padding: 0.55rem 0.9rem;
+        font-weight: 500;
+        color: var(--dl-texto);
+        transition: background 0.15s ease, color 0.15s ease;
+    }
+
+        .dl-admin-menu .dropdown-item:hover,
+        .dl-admin-menu .dropdown-item:focus {
+            background: var(--dl-rosa-transp);
+            color: var(--dl-rosa-profundo);
+        }
+
+/* Cor padrão de links em todo o site */
+a {
+    color: var(--dl-rosa-profundo);
+    text-decoration: none;
+}
+
+    a:hover {
+        color: var(--dl-azul-profundo);
+        text-decoration: underline;
+    }
+
+    a:visited {
+        color: var(--dl-rosa-profundo);
+    }
+
+/* Tabelas do scaffolding (Usuarios, Pedidos, etc.) */
+.table {
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+    .table thead th {
+        font-family: 'Quicksand', sans-serif;
+        color: var(--dl-texto);
+        border-bottom: 2px solid var(--dl-rosa-transp);
+    }
+
+    .table td, .table th {
+        vertical-align: middle;
+        border-color: var(--dl-rosa-transp);
+    }
+
+        .table td a {
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+            .table td a + a::before {
+                content: "•";
+                margin: 0 0.4rem;
+                color: var(--dl-texto);
+                opacity: 0.4;
+            }

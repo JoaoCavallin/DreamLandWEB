@@ -48,7 +48,11 @@
                     </div>
                 }
                 <div class="card-body d-flex flex-column">
-                    @if (!produto.Disponivel)
+                    @if (produto.Estoque <= 0)
+                    {
+                        <span class="badge bg-warning text-dark mb-2 align-self-start">Fora de Estoque</span>
+                    }
+                    else if (!produto.Disponivel)
                     {
                         <span class="badge bg-warning text-dark mb-2 align-self-start">Pendente de Aprovação</span>
                     }
