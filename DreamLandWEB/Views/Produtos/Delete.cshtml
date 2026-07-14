@@ -1,81 +1,122 @@
 @model DreamLandWEB.Models.Produto
+@using DreamLandWEB.Helpers
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Excluir Produto";
 }
 
-<h1>Delete</h1>
+<div class="row g-5">
+    <!-- Coluna da imagem -->
+    <div class="col-md-5">
+        <div class="dl-produto-imagem">
+            @if (!string.IsNullOrEmpty(Model.ImagemUrl))
+            {
+                <img src="@Model.ImagemUrl" alt="@Model.Nome" class="img-fluid rounded-4 shadow-sm" />
+            }
+            else
+            {
+                <div class="dl-sem-imagem d-flex align-items-center justify-content-center rounded-4">
+                    <span class="text-muted">Sem imagem</span>
+                </div>
+            }
+        </div>
+    </div>
 
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>Produto</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nome)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nome)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Descricao)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Descricao)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Categoria)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Categoria)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Preco)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Preco)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Tamanho)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Tamanho)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Condicao)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Condicao)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Estoque)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Estoque)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Disponivel)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Disponivel)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.DataCadastro)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.DataCadastro)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ImagemUrl)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ImagemUrl)
-        </dd>
-    </dl>
-    
-    <form asp-action="Delete">
-        <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
-    </form>
+    <!-- Coluna de informações -->
+    <div class="col-md-7">
+        <div class="alert dl-alert-exclusao mb-4">
+            <strong>Atenção:</strong> tem certeza que deseja excluir este produto? Essa ação não pode ser desfeita.
+        </div>
+
+        <h1 class="dl-titulo mb-1">@Model.Nome</h1>
+
+        <p class="text-muted mb-3">
+            @Model.Categoria.GetDisplayName() &middot; Tamanho @Model.Tamanho
+        </p>
+
+        <div class="d-flex gap-2 mb-3">
+            <span class="badge bg-secondary">@Model.Condicao.GetDisplayName()</span>
+            @if (!string.IsNullOrEmpty(Model.Marca))
+            {
+                <span class="badge dl-badge-marca">@Model.Marca</span>
+            }
+        </div>
+
+        <h2 class="dl-preco mb-4">
+            @(Model.Preco == 0 ? "Gratuito (Doação)" : "R$ " + Model.Preco.ToString("F2"))
+        </h2>
+
+        @if (!string.IsNullOrEmpty(Model.Descricao))
+        {
+            <p class="dl-descricao mb-4">@Model.Descricao</p>
+        }
+
+        <ul class="dl-info-lista mb-4">
+            <li><strong>Estoque:</strong> @Model.Estoque unidade(s)</li>
+            <li><strong>Disponível:</strong> @(Model.Disponivel ? "Sim" : "Não")</li>
+            <li><strong>Cadastrado em:</strong> @Model.DataCadastro.ToString("dd/MM/yyyy")</li>
+
+            @if (!string.IsNullOrEmpty(Model.Marca))
+            {
+                <li><strong>Marca:</strong> @Model.Marca</li>
+            }
+            else if (Model.Fornecedor != null)
+            {
+                <li><strong>Doado/vendido por:</strong> @Model.Fornecedor.Nome</li>
+            }
+        </ul>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="d-flex gap-2">
+                <a asp-action="Index" class="btn btn-outline-primary">Cancelar</a>
+                <button type="submit" class="btn btn-danger">Confirmar Exclusão</button>
+            </div>
+        </form>
+    </div>
 </div>
+
+<style>
+    .dl-produto-imagem img,
+    .dl-sem-imagem {
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+        background: rgba(255, 255, 255, 0.5);
+    }
+
+    .dl-preco {
+        color: var(--dl-rosa-profundo);
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 700;
+    }
+
+    .dl-descricao {
+        color: var(--dl-texto);
+        line-height: 1.6;
+    }
+
+    .dl-badge-marca {
+        background-color: var(--dl-azul-bebe);
+        color: var(--dl-texto);
+    }
+
+    .dl-info-lista {
+        list-style: none;
+        padding: 0;
+        color: var(--dl-texto);
+        opacity: 0.85;
+    }
+
+        .dl-info-lista li {
+            margin-bottom: 0.3rem;
+        }
+
+    .dl-alert-exclusao {
+        background: rgba(217, 140, 166, 0.18);
+        border: 1px solid var(--dl-rosa-profundo);
+        color: var(--dl-rosa-profundo);
+        border-radius: 14px;
+        font-weight: 500;
+    }
+</style>

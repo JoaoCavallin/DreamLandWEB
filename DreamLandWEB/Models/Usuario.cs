@@ -6,18 +6,19 @@ namespace DreamLandWEB.Models
     {
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "O nome é obrigatório")]
+        [Required(ErrorMessage = "Campo obrigatório")]
         [StringLength(100, MinimumLength = 2, ErrorMessage = "O nome deve ter entre 2 e 100 caracteres")]
         public string Nome { get; set; }
 
-        [Required]
-        [EmailAddress]
+        [Required(ErrorMessage = "Campo obrigatório")]
+        [EmailAddress(ErrorMessage = "Email inválido")]
         [StringLength(150)]
         public string Email { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Campo obrigatório")]
         public string SenhaHash { get; set; }
 
+        [Required(ErrorMessage = "Campo obrigatório")]
         [RegularExpression(@"^\d{10,11}$", ErrorMessage = "Informe um telefone válido, apenas números (DDD + número)")]
         [StringLength(11)]
         public string? Telefone { get; set; }

@@ -1,12 +1,12 @@
 @model DreamLandWEB.Models.Usuario
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Cadastrar";
 }
 
-<h1>Create</h1>
+<h1>Cadastrar</h1>
 
-<h4>Usuario</h4>
+<h4>Usuário</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -37,6 +37,7 @@
                     <input class="form-check-input" asp-for="Admin" /> @Html.DisplayNameFor(model => model.Admin)
                 </label>
             </div>
+        </br>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-outline-primary" />
             </div>
@@ -45,7 +46,8 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    </br>
+    <a asp-action="Index">Voltar</a>
 </div>
 
 @section Scripts {

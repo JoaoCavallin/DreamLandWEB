@@ -4,11 +4,13 @@ namespace DreamLandWEB.Models.ViewModels
 {
     public class LoginViewModel
     {
-        [Required, EmailAddress]
+        [Required(ErrorMessage = "Campo obrigatório")]
+        [EmailAddress]
         [StringLength(100)]
         public string Email { get; set; }
 
-        [Required, DataType(DataType.Password)]
+        [Required(ErrorMessage = "Campo obrigatório")]
+        [DataType(DataType.Password)]
         [StringLength(100)]
         public string Senha { get; set; }
     }

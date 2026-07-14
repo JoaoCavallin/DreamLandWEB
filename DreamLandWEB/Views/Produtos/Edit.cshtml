@@ -2,10 +2,10 @@
 @using DreamLandWEB.Enums
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Editar";
 }
 
-<h1>Edit</h1>
+<h1>Editar</h1>
 
 <h4>Produto</h4>
 <hr />
@@ -58,15 +58,17 @@
             </div>
             <input type="hidden" asp-for="FornecedorId" />
             <input type="hidden" asp-for="Marca" />
+             </br>   
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-outline-primary" />
+                <input type="submit" value="Salvar" class="btn btn-outline-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    </br>
+    <a asp-action="Index">Voltar</a>
 </div>
 
 @section Scripts {

@@ -33,6 +33,24 @@ builder.Services.AddAuthorization(options =>
         policy.RequireClaim("Admin", "True"));
 });
 
+builder.Services.AddControllersWithViews(options =>
+{
+    options.ModelBindingMessageProvider.SetValueIsInvalidAccessor(
+        value => $"O valor '{value}' é inválido");
+
+    options.ModelBindingMessageProvider.SetValueMustNotBeNullAccessor(
+        value => "Campo obrigatório");
+
+    options.ModelBindingMessageProvider.SetAttemptedValueIsInvalidAccessor(
+        (value, fieldName) => $"O valor '{value}' é inválido para o campo '{fieldName}'");
+
+    options.ModelBindingMessageProvider.SetMissingKeyOrValueAccessor(
+        () => "Campo obrigatório");
+
+    options.ModelBindingMessageProvider.SetUnknownValueIsInvalidAccessor(
+        fieldName => $"O valor informado é inválido para o campo '{fieldName}'");
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
