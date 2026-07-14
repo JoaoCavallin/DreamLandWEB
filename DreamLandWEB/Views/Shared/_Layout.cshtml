@@ -32,6 +32,9 @@
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="Produtos" asp-action="Doar">Doar/Vender</a>
                                 </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Produtos" asp-action="MeusProdutos">Meus Produtos</a>
+                                </li>
 
                                 @if (User.FindFirst("Admin")?.Value == "True")
                                 {

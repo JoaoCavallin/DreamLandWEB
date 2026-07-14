@@ -1,14 +1,16 @@
 using DreamLandWEB.Data;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+var cultura = new CultureInfo("en-US");
+var supportedCultures = new[] { cultura };
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Casa")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DreamLand")));
 
 builder.Services.AddDistributedMemoryCache(); // necessário pra Session funcionar
 builder.Services.AddSession(options =>
@@ -49,6 +51,9 @@ builder.Services.AddControllersWithViews(options =>
 
     options.ModelBindingMessageProvider.SetUnknownValueIsInvalidAccessor(
         fieldName => $"O valor informado é inválido para o campo '{fieldName}'");
+
+    options.ModelBindingMessageProvider.SetValueMustBeANumberAccessor(
+       fieldName => $"O campo {fieldName} deve ser um número válido.");
 });
 
 var app = builder.Build();
@@ -63,6 +68,13 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.UseRequestLocalization(new RequestLocalizationOptions
+{
+    DefaultRequestCulture = new RequestCulture(cultura),
+    SupportedCultures = supportedCultures,
+    SupportedUICultures = supportedCultures
+});
 
 app.UseRouting();
 

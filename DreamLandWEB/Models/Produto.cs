@@ -18,6 +18,7 @@ namespace DreamLandWEB.Models
         [Required]
         public CategoriaProduto Categoria { get; set; }
 
+        [Display(Name = "Preço")]
         [Range(0, 99999.99, ErrorMessage = "O preço deve estar entre R$ 0 e R$ 99.999,99")]
         [Column(TypeName = "decimal(10,2)")]
         public decimal Preco { get; set; }

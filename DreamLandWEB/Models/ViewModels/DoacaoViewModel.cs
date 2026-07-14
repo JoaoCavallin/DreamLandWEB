@@ -15,6 +15,7 @@ namespace DreamLandWEB.Models.ViewModels
         [Required(ErrorMessage = "Campo obrigatório")]
         public CategoriaProduto Categoria { get; set; }
 
+        [Display(Name = "Preço")]
         [Range(0, 99999, ErrorMessage = "O preço deve ser positivo")]
         public decimal Preco { get; set; }
 

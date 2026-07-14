@@ -11,7 +11,9 @@ namespace DreamLandWEB.Models
         public string Nome { get; set; }
 
         [Required(ErrorMessage = "Campo obrigatório")]
-        [EmailAddress(ErrorMessage = "Email inválido")]
+        [RegularExpression(
+        @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$",
+        ErrorMessage = "Formato de e-mail inválido")]
         [StringLength(150)]
         public string Email { get; set; }
 
