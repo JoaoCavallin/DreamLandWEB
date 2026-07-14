@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DreamLandWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ffba107a5fd8681ead05791b19bfa9081a48b35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb6542d6c25c62e76198bb516c792c437ac230d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DreamLandWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DreamLandWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

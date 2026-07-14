@@ -1,0 +1,72 @@
+﻿@model List<DreamLandWEB.Models.CarrinhoItem>
+
+@{
+    ViewData["Title"] = "Meu Carrinho";
+}
+
+<h1 class="dl-titulo mb-4">Meu Carrinho</h1>
+
+@if (TempData["Sucesso"] != null)
+{
+    <div class="alert alert-success">@TempData["Sucesso"]</div>
+}
+
+@if (!Model.Any())
+{
+    <p class="text-muted">Seu carrinho está vazio.</p>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-outline-primary">Ver Produtos</a>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table align-middle">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Produto</th>
+                    <th>Tamanho</th>
+                    <th>Preço Unit.</th>
+                    <th>Quantidade</th>
+                    <th>Subtotal</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td style="width:80px;">
+                            @if (!string.IsNullOrEmpty(item.ImagemUrl))
+                            {
+                                <img src="@item.ImagemUrl" style="width:60px;height:60px;object-fit:cover;border-radius:12px;" />
+                            }
+                        </td>
+                        <td>@item.Nome</td>
+                        <td>@item.Tamanho</td>
+                        <td>R$ @item.Preco.ToString("F2")</td>
+                        <td style="width:120px;">
+                            <form asp-action="AtualizarQuantidade" method="post" class="d-flex gap-1">
+                                <input type="hidden" name="produtoId" value="@item.ProdutoId" />
+                                <input type="number" name="quantidade" value="@item.Quantidade" min="1" class="form-control form-control-sm" style="width:70px;" />
+                                <button type="submit" class="btn btn-sm btn-outline-primary">↻</button>
+                            </form>
+                        </td>
+                        <td>R$ @item.Subtotal.ToString("F2")</td>
+                        <td>
+                            <form asp-action="Remover" method="post">
+                                <input type="hidden" name="produtoId" value="@item.ProdutoId" />
+                                <button type="submit" class="btn btn-sm btn-outline-danger">Remover</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="text-end">
+        <h4>Total: R$ @ViewBag.Total.ToString("F2")</h4>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-outline-primary">Continuar Comprando</a>
+        <a href="#" class="btn btn-primary">Finalizar Compra</a>
+    </div>
+}

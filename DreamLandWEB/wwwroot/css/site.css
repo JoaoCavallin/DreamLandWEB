@@ -20,3 +20,147 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/* ===== DreamLand — Design Tokens ===== */
+:root {
+    --dl-bg-creme: #F8F6F9;
+    --dl-rosa-suave: #F0C4D0;
+    --dl-rosa-profundo: #D98CA6;
+    --dl-azul-bebe: #B8D2E8;
+    --dl-azul-profundo: #7FA8C9;
+    --dl-branco-transp: rgba(255, 255, 255, 0.55);
+    --dl-rosa-transp: rgba(240, 196, 208, 0.35);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap');
+
+html, body {
+    height: 100%;
+    font-family: 'Nunito', sans-serif;
+    color: var(--dl-texto);
+}
+
+/* Container do background — aqui é onde você encaixa sua imagem */
+.dl-background {
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(248, 246, 249, 0.25), rgba(248, 246, 249, 0.25)), url('/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+}
+
+h1, h2, h3, h4, .dl-titulo {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    color: var(--dl-rosa-profundo);
+}
+
+/* ===== Header ===== */
+.dl-header {
+    background: var(--dl-branco-transp);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-bottom: 2px solid var(--dl-rosa-transp);
+    border-radius: 0 0 28px 28px;
+    box-shadow: 0 4px 20px rgba(201, 124, 130, 0.12);
+    padding: 0.75rem 1.5rem;
+}
+
+    .dl-header .navbar-brand {
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 700;
+        font-size: 1.6rem;
+        color: var(--dl-rosa-profundo) !important;
+    }
+
+    .dl-header .nav-link {
+        color: var(--dl-texto) !important;
+        font-weight: 600;
+        transition: color 0.2s ease;
+    }
+
+        /*.dl-header .nav-link:hover {
+            color: var(--dl-rosa-profundo) !important;
+        }
+
+/* ===== Footer ===== */
+.dl-footer {
+    background: var(--dl-branco-transp);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-top: 2px solid var(--dl-rosa-transp);
+    border-radius: 28px 28px 0 0;
+    box-shadow: 0 -4px 20px rgba(201, 124, 130, 0.12);
+    padding: 1.25rem;
+    margin-top: auto;
+    text-align: center;
+    color: var(--dl-texto);
+}
+
+    .dl-footer a {
+        color: var(--dl-rosa-profundo);
+        font-weight: 600;
+    }
+
+/* ===== Cards de Produto ===== */
+.card {
+    border: none;
+    border-radius: 20px 20px 24px 24px;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(4px);
+    box-shadow: 0 6px 16px rgba(92, 72, 66, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+    .card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 10px 24px rgba(201, 124, 130, 0.18);
+    }
+
+.card-title {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color: var(--dl-texto);
+}
+
+.badge.bg-secondary {
+    background-color: var(--dl-azul-bebe) !important;
+    color: var(--dl-texto);
+}
+
+/* ===== Botões ===== */
+.btn-primary {
+    background-color: var(--dl-rosa-profundo);
+    border-color: var(--dl-rosa-profundo);
+    border-radius: 14px;
+    font-weight: 600;
+}
+
+    .btn-primary:hover {
+        background-color: var(--dl-azul-profundo);
+        border-color: var(--dl-azul-profundo);
+    }
+
+.btn-outline-primary {
+    color: var(--dl-rosa-profundo);
+    border-color: var(--dl-rosa-profundo);
+    border-radius: 14px;
+    font-weight: 600;
+}
+
+    .btn-outline-primary:hover {
+        background-color: var(--dl-rosa-profundo);
+        border-color: var(--dl-rosa-profundo);
+    }
+
+.form-select, .form-control {
+    border-radius: 14px;
+    border-color: var(--dl-rosa-transp);
+}
+
+    .form-select:focus, .form-control:focus {
+        border-color: var(--dl-rosa-profundo);
+        box-shadow: 0 0 0 0.2rem rgba(201, 124, 130, 0.15);
+    }

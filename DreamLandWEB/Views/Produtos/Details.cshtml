@@ -71,6 +71,14 @@
             @Html.DisplayFor(model => model.ImagemUrl)
         </dd>
     </dl>
+    <form asp-controller="Carrinho" asp-action="Adicionar" method="post" class="mt-3">
+        <input type="hidden" name="produtoId" value="@Model.Id" />
+        <div class="mb-3" style="max-width:150px;">
+            <label class="form-label">Quantidade</label>
+            <input type="number" name="quantidade" value="1" min="1" max="@Model.Estoque" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Adicionar ao Carrinho</button>
+    </form>
 </div>
 <div>
     <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |

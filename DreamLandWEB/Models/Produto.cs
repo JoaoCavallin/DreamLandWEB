@@ -17,7 +17,8 @@ namespace DreamLandWEB.Models
         public decimal Preco { get; set; }
         public string Tamanho { get; set; } // RN, P, M, G, 2, 4, 6 anos...
         [Required]
-        public CondicaoProduto Condicao { get; set; } 
+        public CondicaoProduto Condicao { get; set; }
+        [Range(1, int.MaxValue, ErrorMessage = "O estoque deve ser maior que zero.")]
         public int Estoque { get; set; }
         public bool Disponivel { get; set; }
         public DateTime DataCadastro { get; set; } = DateTime.Now;
