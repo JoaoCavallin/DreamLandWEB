@@ -40,12 +40,9 @@
                 <input asp-for="Tamanho" class="form-control" />
                 <span asp-validation-for="Tamanho" class="text-danger"></span>
             </div>
-            <div class="form-group mb-3">
-                <label asp-for="Condicao" class="control-label"></label>
-                <select asp-for="Condicao" class="form-select" asp-items="Html.GetEnumSelectList<CondicaoProduto>()">
-                    <option value="">Selecione...</option>
-                </select>
-                <span asp-validation-for="Condicao" class="text-danger"></span>
+            <div class="mb-3">
+                <label asp-for="Marca" class="form-label">Marca (se for produto novo)</label>
+                <input asp-for="Marca" class="form-control" placeholder="Ex: Carter's, Baby Gap..." />
             </div>
             <div class="form-group">
                 <label asp-for="Estoque" class="control-label"></label>
@@ -58,17 +55,12 @@
                 </label>
             </div>
             <div class="form-group">
-                <label asp-for="DataCadastro" class="control-label"></label>
-                <input asp-for="DataCadastro" class="form-control" />
-                <span asp-validation-for="DataCadastro" class="text-danger"></span>
-            </div>
-            <div class="form-group">
                 <label asp-for="ImagemUrl" class="control-label"></label>
                 <input asp-for="ImagemUrl" class="form-control" />
                 <span asp-validation-for="ImagemUrl" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-outline-primary" />
             </div>
         </form>
     </div>

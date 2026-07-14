@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\viewmodels\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\viewmodels\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\doar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\doar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\pedidos\\confirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,120 +67,36 @@
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\pedidos\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714041729_mudancabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DreamLandWEB\\Migrations\\20260714041729_mudancabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\viewmodels\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\viewmodels\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\enums\\condicaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\enums\\condicaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714083557_vamosss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DreamLandWEB\\Migrations\\20260714083557_vamosss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\enums\\categoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\enums\\categoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\viewmodels\\doacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\viewmodels\\doacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\helpers\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\helpers\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\dreamlandweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\dreamlandweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -159,12 +107,108 @@
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\migrations\\20260711194621_casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\migrations\\20260711194621_casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714082523_vamoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DreamLandWEB\\Migrations\\20260714082523_vamoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\meusprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\meusprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714074409_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DreamLandWEB\\Migrations\\20260714074409_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\account\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\enums\\condicaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\enums\\condicaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\enums\\categoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\enums\\categoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\helpers\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\helpers\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\dreamlandweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\dreamlandweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -177,22 +221,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\jpedr\\source\\repos\\dreamlandweb\\dreamlandweb\\migrations\\20260710001439_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\migrations\\20260710001439_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -254,134 +282,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewEIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T07:53:24.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAewBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T19:27:08.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-11T17:56:39.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Account\\Registro.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Account\\Registro.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Account\\Registro.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Account\\Registro.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-14T03:59:50.886Z",
+              "WhenOpened": "2026-07-14T04:07:42.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Index.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-14T03:43:09.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\Account.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\Account.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\Account.cs",
-              "RelativeToolTip": "DreamLandWEB\\Controllers\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T03:40:07.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RegistroViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
-              "RelativeToolTip": "DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T03:19:08.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Carrinho\\Index.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Carrinho\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Carrinho\\Index.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Carrinho\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-13T21:25:40.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Delete.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Delete.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-14T04:07:54.719Z",
+              "WhenOpened": "2026-07-14T04:08:04.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Program.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Program.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Program.cs",
-              "RelativeToolTip": "DreamLandWEB\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswCgAAAAVAAAAAAAAAA==",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Usuario.cs",
+              "RelativeToolTip": "DreamLandWEB\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.019Z",
+              "WhenOpened": "2026-07-11T17:56:39.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEoAAAAPAAAAAAAAAA==",
+              "Title": "RegistroViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
+              "RelativeToolTip": "DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T03:19:08.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Pedidos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Edit.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Pedidos\\Edit.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAewCQAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T17:56:39.014Z",
+              "WhenOpened": "2026-07-14T08:41:15.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "DreamLandWEB\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "DreamLandWEB\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-13T20:29:45.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "DreamLandWEB\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-14T03:59:09.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwC4AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T17:56:39.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Doar.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Doar.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Doar.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\Doar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T07:52:02.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Details.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Details.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\Details.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAewE8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T21:28:56.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAewD4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T19:35:37.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Pedidos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Create.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Pedidos\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewCIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T08:41:11.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Pedidos\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Checkout.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Pedidos\\Checkout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewCYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T05:08:17.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T17:56:39.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Carrinho\\Index.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Carrinho\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Carrinho\\Index.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Carrinho\\Index.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAewEUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T21:25:40.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Account\\AccessDenied.cshtml",
@@ -394,122 +516,189 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Create.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Create.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-14T04:07:42.125Z",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DreamLandWEB\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DreamLandWEB\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-13T20:29:45.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Pedidos\\Checkout.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Checkout.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Pedidos\\Checkout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-14T05:08:17.714Z",
+              "DocumentIndex": 22,
+              "Title": "DoacaoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\DoacaoViewModel.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ViewModels\\DoacaoViewModel.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\DoacaoViewModel.cs",
+              "RelativeToolTip": "DreamLandWEB\\Models\\ViewModels\\DoacaoViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:49:17.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ItemPedido.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ItemPedido.cs",
+              "RelativeToolTip": "DreamLandWEB\\Models\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:56:39.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Confirmacao.cshtml",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Confirmacao.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Pedidos\\Confirmacao.cshtml",
               "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Pedidos\\Confirmacao.cshtml",
               "RelativeToolTip": "DreamLandWEB\\Views\\Pedidos\\Confirmacao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewCgAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-14T05:08:41.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PedidosController.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\PedidosController.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\PedidosController.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\PedidosController.cs",
-              "RelativeToolTip": "DreamLandWEB\\Controllers\\PedidosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T04:35:31.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20260714041729_mudancabanco.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714041729_mudancabanco.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Migrations\\20260714041729_mudancabanco.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714041729_mudancabanco.cs",
-              "RelativeToolTip": "DreamLandWEB\\Migrations\\20260714041729_mudancabanco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T04:17:29.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Details.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Details.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAvwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-14T04:08:01.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ViewModels\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "DreamLandWEB\\Models\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T03:09:43.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Edit.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Edit.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-14T04:08:04.607Z",
+              "WhenOpened": "2026-07-14T03:09:43.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "PasswordHelper.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\PasswordHelper.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Helpers\\PasswordHelper.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\PasswordHelper.cs",
-              "RelativeToolTip": "DreamLandWEB\\Helpers\\PasswordHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Title": "20260714083557_vamosss.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714083557_vamosss.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Migrations\\20260714083557_vamosss.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714083557_vamosss.cs",
+              "RelativeToolTip": "DreamLandWEB\\Migrations\\20260714083557_vamosss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T03:04:46.543Z"
+              "WhenOpened": "2026-07-14T08:35:57.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CarrinhoItem.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\CarrinhoItem.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\CarrinhoItem.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\CarrinhoItem.cs",
+              "RelativeToolTip": "DreamLandWEB\\Models\\CarrinhoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T21:04:46.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Pedido.cs",
+              "RelativeToolTip": "DreamLandWEB\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:56:39.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Produto.cs",
+              "RelativeToolTip": "DreamLandWEB\\Models\\Produto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:56:39.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DreamLandWEB\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:56:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260714082523_vamoss.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714082523_vamoss.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Migrations\\20260714082523_vamoss.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714082523_vamoss.cs",
+              "RelativeToolTip": "DreamLandWEB\\Migrations\\20260714082523_vamoss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:25:23.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "DreamLandWEB\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T04:29:51.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
+              "Title": "20260714074409_db.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714074409_db.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Migrations\\20260714074409_db.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260714074409_db.cs",
+              "RelativeToolTip": "DreamLandWEB\\Migrations\\20260714074409_db.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:44:09.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MeusProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\MeusProdutos.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\MeusProdutos.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\MeusProdutos.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\MeusProdutos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T07:52:53.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\HomeController.cs",
@@ -521,247 +710,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T17:56:39.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Create.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Create.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-13T19:35:37.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Produto.cs",
-              "RelativeToolTip": "DreamLandWEB\\Models\\Produto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBcAAABCAAAAAAAAAA==",
+              "DocumentIndex": 41,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\Account.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\Account.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\Account.cs",
+              "RelativeToolTip": "DreamLandWEB\\Controllers\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Index.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Index.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-13T19:27:08.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Details.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Details.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Produtos\\Details.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-13T21:28:56.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Usuario.cs",
-              "RelativeToolTip": "DreamLandWEB\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CondicaoProduto.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Enums\\CondicaoProduto.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Enums\\CondicaoProduto.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Enums\\CondicaoProduto.cs",
-              "RelativeToolTip": "DreamLandWEB\\Enums\\CondicaoProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CategoriaProduto.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Enums\\CategoriaProduto.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Enums\\CategoriaProduto.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Enums\\CategoriaProduto.cs",
-              "RelativeToolTip": "DreamLandWEB\\Enums\\CategoriaProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CarrinhoItem.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\CarrinhoItem.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\CarrinhoItem.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\CarrinhoItem.cs",
-              "RelativeToolTip": "DreamLandWEB\\Models\\CarrinhoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T21:04:46.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Helpers\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\SessionExtensions.cs",
-              "RelativeToolTip": "DreamLandWEB\\Helpers\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T21:13:46.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Carrinho.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\Carrinho.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\Carrinho.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\Carrinho.cs",
-              "RelativeToolTip": "DreamLandWEB\\Controllers\\Carrinho.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T21:24:19.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T17:56:39.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DreamLandWEB\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.039Z"
+              "WhenOpened": "2026-07-14T03:40:07.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\ProdutosController.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\ProdutosController.cs",
-              "RelativeToolTip": "DreamLandWEB\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAAwBkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T04:29:51.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "EnumExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\EnumExtensions.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Helpers\\EnumExtensions.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\EnumExtensions.cs",
-              "RelativeToolTip": "DreamLandWEB\\Helpers\\EnumExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T19:41:53.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DreamLandWEB.csproj",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
-              "RelativeDocumentMoniker": "DreamLandWEB\\DreamLandWEB.csproj",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
-              "RelativeToolTip": "DreamLandWEB\\DreamLandWEB.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-11T17:56:39.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ItemPedido.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ItemPedido.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ItemPedido.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ItemPedido.cs",
-              "RelativeToolTip": "DreamLandWEB\\Models\\ItemPedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Pedido.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Pedido.cs",
-              "RelativeToolTip": "DreamLandWEB\\Models\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\wwwroot\\favicon.ico",
-              "RelativeDocumentMoniker": "DreamLandWEB\\wwwroot\\favicon.ico",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "RelativeToolTip": "DreamLandWEB\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2026-07-13T04:32:56.699Z",
-              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "20260711194621_casa.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260711194621_casa.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Migrations\\20260711194621_casa.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260711194621_casa.cs",
-              "RelativeToolTip": "DreamLandWEB\\Migrations\\20260711194621_casa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T19:46:21.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\_ViewImports.cshtml",
@@ -773,19 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "20260710001439_first.cs",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260710001439_first.cs",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Migrations\\20260710001439_first.cs",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260710001439_first.cs",
-              "RelativeToolTip": "DreamLandWEB\\Migrations\\20260710001439_first.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T17:56:39.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 33,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\_ViewStart.cshtml",
@@ -797,7 +746,199 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Program.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Program.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Program.cs",
+              "RelativeToolTip": "DreamLandWEB\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:56:39.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "DreamLandWEB\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAADwvw8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T04:35:31.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "DreamLandWEB\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T05:46:07.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T04:07:54.719Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T03:43:09.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Account\\Registro.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Account\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Account\\Registro.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Account\\Registro.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T03:59:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Usuarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Usuarios\\Details.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Usuarios\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T04:08:01.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "DreamLandWEB\\Helpers\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T03:04:46.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CondicaoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Enums\\CondicaoProduto.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Enums\\CondicaoProduto.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Enums\\CondicaoProduto.cs",
+              "RelativeToolTip": "DreamLandWEB\\Enums\\CondicaoProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:56:39.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoriaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Enums\\CategoriaProduto.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Enums\\CategoriaProduto.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Enums\\CategoriaProduto.cs",
+              "RelativeToolTip": "DreamLandWEB\\Enums\\CategoriaProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:56:39.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Helpers\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "DreamLandWEB\\Helpers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T21:13:46.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\Carrinho.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\Carrinho.cs",
+              "RelativeToolTip": "DreamLandWEB\\Controllers\\Carrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T21:24:19.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DreamLandWEB\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T17:56:39.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EnumExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\EnumExtensions.cs",
+              "RelativeDocumentMoniker": "DreamLandWEB\\Helpers\\EnumExtensions.cs",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Helpers\\EnumExtensions.cs",
+              "RelativeToolTip": "DreamLandWEB\\Helpers\\EnumExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T19:41:53.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DreamLandWEB.csproj",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
+              "RelativeDocumentMoniker": "DreamLandWEB\\DreamLandWEB.csproj",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
+              "RelativeToolTip": "DreamLandWEB\\DreamLandWEB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T17:56:39.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "DreamLandWEB\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "DreamLandWEB\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-07-13T04:32:56.699Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\appsettings.json",
               "RelativeDocumentMoniker": "DreamLandWEB\\appsettings.json",
@@ -809,7 +950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 52,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\appsettings.Development.json",
               "RelativeDocumentMoniker": "DreamLandWEB\\appsettings.Development.json",
@@ -821,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 54,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -830,18 +971,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-11T17:56:39.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\jpedr\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAABsAAAAAAAAAAIBpwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-11T17:56:39.057Z"
             }
           ]
         }

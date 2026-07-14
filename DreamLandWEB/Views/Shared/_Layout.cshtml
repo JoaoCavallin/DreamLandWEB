@@ -24,27 +24,43 @@
                                 <li class="nav-item">
                                     <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Início</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidade</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" asp-controller="Carrinho" asp-action="Index">
-                                        <img src="~/images/Carrinho.png" alt="Carrinho" height="30">
-                                        </a>
-                                    </li>
                                     @if (User.Identity != null && User.Identity.IsAuthenticated)
                                     {
+                                        @if (User.FindFirst("Admin")?.Value == "True")
+                                        {
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                                                    Admin
+                                                </a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a class="dropdown-item" asp-controller="Produtos" asp-action="Index">Gerenciar Produtos</a></li>
+                                                    <li><a class="dropdown-item" asp-controller="Pedidos" asp-action="Index">Gerenciar Pedidos</a></li>
+                                                    <li><a class="dropdown-item" asp-controller="Usuarios" asp-action="Index">Gerenciar Usuários</a></li>
+                                                </ul>
+                                            </li>
+                                        }
+
                                         <li class="nav-item">
                                             <span class="nav-link">Olá, @User.Identity.Name</span>
                                         </li>
                                         <li class="nav-item">
+                                        <a class="nav-link" asp-controller="Carrinho" asp-action="Index">
+                                            <img src="~/images/Carrinho.png" alt="Carrinho" height="30">
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
                                             <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline">
-                                                <button type="submit" class="nav-link dl-logout-link">Sair</button>
+                                                <button type="submit" class="dl-logout-link">Sair</button>
                                             </form>
                                         </li>
                                     }
                                     else
                                     {
+                                        <li class="nav-item">
+                                            <a class="nav-link" asp-controller="Carrinho" asp-action="Index">
+                                                <img src="~/images/Carrinho.png" alt="Carrinho" height="30">
+                                                </a>
+                                            </li>
                                         <li class="nav-item">
                                             <a class="nav-link" asp-controller="Account" asp-action="Login">Entrar</a>
                                         </li>

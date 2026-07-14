@@ -23,6 +23,7 @@ namespace DreamLandWEB.Controllers
         }
 
         // GET: Pedidos
+        [Authorize(Policy = "RequerAdmin")]
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.Pedidos.Include(p => p.Usuario);
@@ -49,6 +50,7 @@ namespace DreamLandWEB.Controllers
         }
 
         // GET: Pedidos/Create
+        [Authorize(Policy = "RequerAdmin")]
         public IActionResult Create()
         {
             ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "Id", "Id");
@@ -60,6 +62,7 @@ namespace DreamLandWEB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "RequerAdmin")]
         public async Task<IActionResult> Create([Bind("Id,UsuarioId,Data,Total,Status")] Pedido pedido)
         {
             if (ModelState.IsValid)
@@ -73,6 +76,7 @@ namespace DreamLandWEB.Controllers
         }
 
         // GET: Pedidos/Edit/5
+        [Authorize(Policy = "RequerAdmin")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -94,6 +98,7 @@ namespace DreamLandWEB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "RequerAdmin")]
         public async Task<IActionResult> Edit(int id, [Bind("Id,UsuarioId,Data,Total,Status")] Pedido pedido)
         {
             if (id != pedido.Id)
@@ -126,6 +131,7 @@ namespace DreamLandWEB.Controllers
         }
 
         // GET: Pedidos/Delete/5
+        [Authorize(Policy = "RequerAdmin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -147,6 +153,7 @@ namespace DreamLandWEB.Controllers
         // POST: Pedidos/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "RequerAdmin")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var pedido = await _context.Pedidos.FindAsync(id);

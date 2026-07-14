@@ -1,0 +1,57 @@
+@model List<DreamLandWEB.Models.Produto>
+@using DreamLandWEB.Helpers
+
+@{
+    ViewData["Title"] = "Meus Produtos Enviados";
+}
+
+<h2 class="dl-titulo mb-4">Meus Produtos Enviados</h2>
+
+@if (TempData["Sucesso"] != null)
+{
+    <div class="alert alert-success">@TempData["Sucesso"]</div>
+}
+
+@if (!Model.Any())
+{
+    <p class="text-muted">Você ainda não enviou nenhum produto.</p>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table align-middle">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Categoria</th>
+                    <th>Condição</th>
+                    <th>Preço</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var produto in Model)
+                {
+                    <tr>
+                        <td>@produto.Nome</td>
+                        <td>@produto.Categoria.GetDisplayName()</td>
+                        <td>@produto.Condicao.GetDisplayName()</td>
+                        <td>@(produto.Preco == 0 ? "Doação" : "R$ " + produto.Preco.ToString("F2"))</td>
+                        <td>
+                            @if (produto.Disponivel)
+                            {
+                                <span class="badge bg-success">Aprovado</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-warning text-dark">Pendente</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+<a asp-action="Doar" class="btn btn-outline-primary">Enviar Novo Produto</a>

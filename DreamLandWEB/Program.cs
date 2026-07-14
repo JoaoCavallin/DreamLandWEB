@@ -27,6 +27,12 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.SlidingExpiration = true;
     });
 
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("RequerAdmin", policy =>
+        policy.RequireClaim("Admin", "True"));
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
