@@ -17,129 +17,129 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DreamLandWEB
 build_property.RootNamespace = DreamLandWEB
-build_property.ProjectDir = C:\Users\JOAOPEDROCAVALLIN\Source\Repos\DreamLandWEB\DreamLandWEB\
+build_property.ProjectDir = C:\Users\JOAOPEDROCAVALLIN\source\repos\DreamLandWEB\DreamLandWEB\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\JOAOPEDROCAVALLIN\Source\Repos\DreamLandWEB\DreamLandWEB
+build_property.MSBuildProjectDirectory = C:\Users\JOAOPEDROCAVALLIN\source\repos\DreamLandWEB\DreamLandWEB
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Account/AccessDenied.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Account/Login.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Account/Registro.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Account/Registro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Ryby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Carrinho/Index.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Carrinho/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmluaG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Home/Index.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Home/Privacy.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Checkout.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Confirmacao.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Confirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Create.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Delete.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Details.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Edit.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Index.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Pedidos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Create.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Delete.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Details.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Doar.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Doar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRG9hci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Edit.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Index.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Produtos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Produtos/MeusProdutos.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Produtos/MeusProdutos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcTWV1c1Byb2R1dG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Create.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Delete.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Details.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Edit.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Index.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/_ViewImports.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/_ViewStart.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JOAOPEDROCAVALLIN/Source/Repos/DreamLandWEB/DreamLandWEB/Views/Shared/_Layout.cshtml]
+[C:/Users/JOAOPEDROCAVALLIN/source/repos/DreamLandWEB/DreamLandWEB/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3zs8ngvq1a

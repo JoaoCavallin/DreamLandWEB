@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JOAOPEDROCAVALLIN\\Source\\Repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj": {}
+    "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JOAOPEDROCAVALLIN\\Source\\Repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj": {
+    "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JOAOPEDROCAVALLIN\\Source\\Repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
+        "projectUniqueName": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
         "projectName": "DreamLandWEB",
-        "projectPath": "C:\\Users\\JOAOPEDROCAVALLIN\\Source\\Repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
+        "projectPath": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
         "packagesPath": "C:\\Users\\JOAOPEDROCAVALLIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JOAOPEDROCAVALLIN\\Source\\Repos\\DreamLandWEB\\DreamLandWEB\\obj\\",
+        "outputPath": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

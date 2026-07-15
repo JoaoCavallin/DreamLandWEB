@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KAE3TYOOiJU=",
+  "dgSpecHash": "6JWneKlO/L8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JOAOPEDROCAVALLIN\\Source\\Repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
+  "projectFilePath": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOAOPEDROCAVALLIN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\JOAOPEDROCAVALLIN\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
