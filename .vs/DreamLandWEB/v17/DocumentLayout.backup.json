@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\viewmodels\\doacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\viewmodels\\doacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\models\\viewmodels\\doacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\models\\viewmodels\\doacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\produtos\\doar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -83,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|c:\\users\\joaopedrocavallin\\source\\repos\\dreamlandweb\\dreamlandweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{165D4B5E-E937-4AEE-AC96-6E5081C9C3EF}|DreamLandWEB\\DreamLandWEB.csproj|solutionrelative:dreamlandweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Edit.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Edit.cshtml",
@@ -187,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\ProdutosController.cs",
@@ -200,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "DoacaoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\DoacaoViewModel.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ViewModels\\DoacaoViewModel.cs",
@@ -208,23 +208,25 @@
               "RelativeToolTip": "DreamLandWEB\\Models\\ViewModels\\DoacaoViewModel.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T22:36:10.044Z"
+              "WhenOpened": "2026-07-14T22:36:10.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 1,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\_ViewStart.cshtml",
               "ToolTip": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "DreamLandWEB\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-10T00:08:03.557Z"
+              "WhenOpened": "2026-07-10T00:08:03.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Program.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Program.cs",
@@ -237,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\appsettings.json",
               "RelativeDocumentMoniker": "DreamLandWEB\\appsettings.json",
@@ -249,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Usuario.cs",
@@ -261,20 +263,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Produto.cs",
               "RelativeToolTip": "DreamLandWEB\\Models\\Produto.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwBwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-09T22:48:52.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Models\\Pedido.cs",
@@ -286,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ViewModels\\LoginViewModel.cs",
@@ -298,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml.css",
@@ -310,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Shared\\_Layout.cshtml",
@@ -322,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Create.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Create.cshtml",
@@ -334,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Doar.cshtml",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Produtos\\Doar.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Produtos\\Doar.cshtml",
@@ -346,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RegistroViewModel.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Models\\ViewModels\\RegistroViewModel.cs",
@@ -358,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "20260710001439_first.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Migrations\\20260710001439_first.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Migrations\\20260710001439_first.cs",
@@ -370,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DreamLandWEB.csproj",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\DreamLandWEB.csproj",
               "RelativeDocumentMoniker": "DreamLandWEB\\DreamLandWEB.csproj",
@@ -382,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\_ViewImports.cshtml",
@@ -394,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\appsettings.Development.json",
               "RelativeDocumentMoniker": "DreamLandWEB\\appsettings.Development.json",
@@ -406,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DreamLandWEB\\Controllers\\HomeController.cs",
@@ -418,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Registro.cshtml",
               "DocumentMoniker": "C:\\Users\\JOAOPEDROCAVALLIN\\source\\repos\\DreamLandWEB\\DreamLandWEB\\Views\\Account\\Registro.cshtml",
               "RelativeDocumentMoniker": "DreamLandWEB\\Views\\Account\\Registro.cshtml",
