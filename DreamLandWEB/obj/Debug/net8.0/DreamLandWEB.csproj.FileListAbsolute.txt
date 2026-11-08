@@ -395,7 +395,6 @@ C:\Users\jpedr\source\repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\Microsoft
 C:\Users\jpedr\source\repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\jpedr\source\repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\jpedr\source\repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\System.ClientModel.dll
-C:\Users\jpedr\source\repos\DreamLandWEB\DreamLandWEB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\JOAOPEDROCAVALLIN\Source\Repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\JOAOPEDROCAVALLIN\Source\Repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\Microsoft.Build.dll
 C:\Users\JOAOPEDROCAVALLIN\Source\Repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\Microsoft.Build.Framework.dll

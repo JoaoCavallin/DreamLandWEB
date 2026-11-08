@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "DreamLandWEB.Controllers.ProdutosApiController",
+    "Method": "Listar",
+    "RelativePath": "api/produtos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "condicao",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "marca",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
