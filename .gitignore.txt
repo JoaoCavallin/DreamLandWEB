@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos de compilação
+**/bin/
+**/obj/
+
+# Avaliação do Visual Studio
+ProjectEvaluation/
