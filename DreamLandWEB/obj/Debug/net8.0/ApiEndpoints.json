@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "DreamLandWEB.Controllers.AuthApiController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DreamLandWEB.Models.ViewModels.LoginViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DreamLandWEB.Controllers.AuthApiController",
+    "Method": "Registro",
+    "RelativePath": "api/auth/registro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DreamLandWEB.Models.ViewModels.RegistroViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DreamLandWEB.Controllers.ProdutosApiController",
     "Method": "Listar",
     "RelativePath": "api/produtos",
@@ -21,8 +53,23 @@
         "Name": "marca",
         "Type": "System.String",
         "IsRequired": false
+      },
+      {
+        "Name": "busca",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DreamLandWEB.Controllers.ProdutosApiController",
+    "Method": "Marcas",
+    "RelativePath": "api/produtos/marcas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

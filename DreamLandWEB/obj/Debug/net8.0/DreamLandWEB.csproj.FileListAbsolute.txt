@@ -525,3 +525,4 @@ C:\Users\JOAOPEDROCAVALLIN\Source\Repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8
 C:\Users\JOAOPEDROCAVALLIN\Source\Repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\JOAOPEDROCAVALLIN\Source\Repos\DreamLandWEB\DreamLandWEB\obj\Debug\net8.0\DreamLandWEB.sourcelink.json
 C:\Users\jpedr\source\repos\DreamLandWEB\DreamLandWEB\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jpedr\source\repos\DreamLandWEB\DreamLandWEB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
