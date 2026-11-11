@@ -32,6 +32,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "DreamLandWEB.Controllers.PedidosApiController",
+    "Method": "Criar",
+    "RelativePath": "api/pedidos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DreamLandWEB.Controllers.PedidoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DreamLandWEB.Controllers.ProdutosApiController",
     "Method": "Listar",
     "RelativePath": "api/produtos",

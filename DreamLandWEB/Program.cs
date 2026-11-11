@@ -13,7 +13,7 @@ var cultura = new CultureInfo("en-US");
 var supportedCultures = new[] { cultura };
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Casa")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DreamLand")));
 
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
